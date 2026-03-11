@@ -1,0 +1,10 @@
+{
+    "r2_score": 0.9336106136462088,
+    "mae": 15.412160454652248,
+    "rmse": 23.808314105056407,
+    "best_params": {
+        "learning_rate": 0.1,
+        "max_depth": 4,
+        "n_estimators": 100
+    }
+}

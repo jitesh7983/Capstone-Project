@@ -1,0 +1,30 @@
+venv/
+__pycache__/
+*.pyc
+node_modules/
+.env
+*.pkl
+*.csv
+# Dataset (too large for GitHub)
+dataset/
+
+# ML model files (generated, not source code)
+backend/*.pkl
+backend/*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+*.egg-info/
+
+# React / Node
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# OS files
+.DS_Store
+Thumbs.db
