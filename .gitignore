@@ -5,6 +5,11 @@ node_modules/
 .env
 *.pkl
 *.csv
+backend/*.pkl
+backend/*.json
+dataset/
+frontend/node_modules/
+frontend/.env
 # Dataset (too large for GitHub)
 dataset/
 
